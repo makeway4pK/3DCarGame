@@ -1,5 +1,5 @@
 # 3DCarGame
-First Award Winning project in PCCOE Comp.Dept. Mini Project Competition, Feb 2019
+First-Award Winning project in PCCOE Computer Department Mini Project Competition, Feb 2019
 
 A simple car game demonstrating orthographic projections of a 3D world,
 complete with proper keyboard input support and game loop logic.
