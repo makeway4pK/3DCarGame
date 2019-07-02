@@ -14,7 +14,7 @@ code files are scattered all over.
 
 
 ## infBoost.cpp
-contains the final code, cheers!
+Contains the final code, cheers!
 First release (also the one presented in the competition): [MSKB.exe](https://github.com/makeway4pK/3DCarGame/releases/download/v1.0/MSKB.exe)
 
 # Development Team:
@@ -31,5 +31,5 @@ First release (also the one presented in the competition): [MSKB.exe](https://gi
 - Optimization & Testing
   
 ### [@17vjs](http://github.com/17vjs)
-- Graphic & UI design
+- Graphics & UI design
 - Screenplay
