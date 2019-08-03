@@ -33,3 +33,8 @@ First release (also the one presented in the competition): [MSKB.exe](https://gi
 ### [@17vjs](http://github.com/17vjs)
 - Graphics & UI design
 - Screenplay
+
+
+ If You're planning on testing/contributing to this repo, make sure you get a copy of [Eigen](https://eigen.tuxfamily.org/dox/GettingStarted.html).
+ This library helped us to achieve the performance speed we needed for 
+a responsive game without multithreading
